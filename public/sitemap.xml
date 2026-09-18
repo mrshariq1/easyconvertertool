@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://easyconverter.netlify.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/about</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/privacy</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://easyconverter.netlify.app/terms</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://easyconverter.netlify.app/disclaimer</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://easyconverter.netlify.app/cookie-policy</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+
+  <!-- Categories -->
+  <url><loc>https://easyconverter.netlify.app/converters/length</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/weight</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/temperature</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/area</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/volume</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/speed</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/data</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/time</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/pressure</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/energy</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/power</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/frequency</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/angle</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/cooking</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/fuel_economy</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/number_systems</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/converters/typography</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Popular Direct Conversions -->
+  <url><loc>https://easyconverter.netlify.app/kg-to-lbs</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/lbs-to-kg</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/cm-to-inches</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/inches-to-cm</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/celsius-to-fahrenheit</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/fahrenheit-to-celsius</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/miles-to-km</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/km-to-miles</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/feet-to-meters</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/meters-to-feet</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/mb-to-gb</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/gb-to-mb</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/liters-to-gallons</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/gallons-to-liters</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/psi-to-bar</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/bar-to-psi</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/mph-to-kmh</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/kmh-to-mph</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/degrees-to-radians</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/pixels-to-rem</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/binary-to-decimal</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Calculators -->
+  <url><loc>https://easyconverter.netlify.app/calculators/percentage</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/discount</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/ratio</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/average</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/age</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/date-difference</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/time-duration</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/fuel-cost</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/tip-and-split-bill</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/bmi</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/fraction</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://easyconverter.netlify.app/calculators/random-number-generator</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Guides -->
+  <url><loc>https://easyconverter.netlify.app/guides/how-unit-conversion-works</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/metric-vs-imperial-units</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/how-to-convert-kg-to-lbs</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/how-to-convert-cm-to-inches</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/celsius-vs-fahrenheit</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/how-to-convert-miles-to-km</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/kb-vs-kib-vs-mb-vs-mib</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/how-to-convert-liters-to-gallons</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/how-to-convert-square-feet-to-square-meters</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/how-to-convert-psi-to-bar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/how-to-convert-mpg-to-l100km</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/how-to-convert-degrees-to-radians</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/understanding-digital-storage-units</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/understanding-temperature-scales</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://easyconverter.netlify.app/guides/kitchen-cooking-measurements</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

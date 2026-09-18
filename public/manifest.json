@@ -1,0 +1,17 @@
+{
+  "short_name": "EasyConverter",
+  "name": "EasyConverter — Free Online Converters & Calculators",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "48x48 72x72 96x96 128x128 256x256"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Fast, free, and accurate online unit converters and calculators for length, weight, temperature, area, volume, and everyday tools."
+}

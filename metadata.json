@@ -1,0 +1,6 @@
+{
+  "name": "EasyConverter",
+  "description": "Free online unit converters, calculators, conversion tables, explanations, guides, and everyday tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
